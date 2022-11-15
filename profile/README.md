@@ -1,7 +1,7 @@
 <!-- LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Voltaic-Hosting">
+  <a href="https://github.com/Voltaic-Hosting/.github/profile/images">
     <img src="images/voltaic-hosting-logo.png" alt="Logo" width="80" height="80">
   </a>
 

@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Voltaic-Hosting/.github/profile/images">
-    <img src="https://github.com/Voltaic-Hosting/.github/profile/images/voltaic-hosting-logo.png" alt="Logo" width="80" height="80">
+    <img src="images/voltaic-hosting-logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Voltaic Hosting</h3>

@@ -8,5 +8,7 @@
   <h3 align="center">Voltaic Hosting</h3>
 
   <p align="center">
-    Sustainable, Secure and Private Hosting
+    Sustainable, Secure and Private Hosting.
     <br />
+
+We want to provide secure hosting solutions to developers, gamers and daily users looking for some privacy and piece of mind knowing that their server is helping give back to the earth!

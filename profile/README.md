@@ -12,3 +12,7 @@
     <br />
 
 We want to provide secure hosting solutions to developers, gamers and daily users looking for some privacy and piece of mind knowing that their server is helping give back to the earth!
+
+[Voltaic.Host](https://voltaic.host)
+
+[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/jgft.svg)](https://betteruptime.com/?utm_source=status_badge)

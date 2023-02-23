@@ -11,8 +11,15 @@
     Sustainable, Secure and Private Hosting.
     <br />
 
-We want to provide secure hosting solutions to developers, gamers and daily users looking for some privacy and piece of mind knowing that their server is helping give back to the earth!
+We want to provide secure hosting solutions to developers, gamers, and daily users looking for efficient and reliable servers!
 
 [Voltaic.Host](https://voltaic.host)
 
 [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/jgft.svg)](https://betteruptime.com/?utm_source=status_badge)
+
+**Powered by:**
+    
+<a>
+<img src="https://oneclick-cloud.com/wp-content/uploads/2020/07/IONOS-cloud-Blu-2048x485.png" alt="IONOSComputeEngine" width="256" height="60">
+</a>
+    

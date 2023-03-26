@@ -11,7 +11,7 @@
     Sustainable, Secure and Private Hosting.
     <br />
 
-We want to provide secure hosting solutions to developers, gamers, and daily users looking for efficient and reliable servers!
+We want to provide secure hosting solutions to orginizations looking for efficient and reliable servers!
 
 [Voltaic.Host](https://voltaic.host)
 
